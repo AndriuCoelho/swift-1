@@ -1,23 +1,19 @@
 import UIKit
 
-let nome = "churros"
-let felicidade: Int = 5
-let calorias: Double = 79.5
-let vegatal: Bool = false
+let totalDeCalorias = [50.5, 100]
 
-
-//func alimentoConsumido() {
-//    print("o alimento consumido foi: \(nome)")
-//}
-
-//alimentoConsumido()
-//alimentoConsumido()
-
-func alimentoConsumido(nome: String, caloria: Double) {
-    print("o alimento consumido foi: \(nome), com calorias: \(caloria)")
+func todasCalorias(totalDeCalorias: [Double]) -> Double {
+    var total: Double = 0
+    
+    for caloria in totalDeCalorias {
+        total += caloria
+    }
+    return total
 }
 
-alimentoConsumido(nome: nome, caloria: calorias)
+let total = todasCalorias(totalDeCalorias: [50.5, 100, 400])
+
+print(total)
 
 
 
