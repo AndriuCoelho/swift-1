@@ -1,4 +1,4 @@
-![Thumbnail GitHub](https://github.com/giovannamoeller/readme-templates/blob/main/thumbnail-Swift%20-%20Parte%201.png?raw=true)
+![Thumbnail GitHub](https://user-images.githubusercontent.com/47362960/145265588-ac0778f5-21b7-47f2-abf1-2786a5632b39.png)
 
 # Egg Plant Brownie
 
@@ -9,7 +9,7 @@ A aplicação Egg Plant Brownie é a simulação de um aplicativo de refeições
 - Adicionar uma refeição e a quantidade de felicidade através de campos de texto.
 - Visualizar o que foi adicionado no console da aplicação.
 
-![Gif mostrando o aplicativo em execução](https://github.com/giovannamoeller/readme-templates/blob/main/swift-parte1.gif?raw=true)
+![Gif mostrando o aplicativo em execução](https://user-images.githubusercontent.com/47362960/145265597-fa9a5081-a51e-4679-a731-44cdfa920922.gif)
 
 ## ✔️ Técnicas e tecnologias
 
